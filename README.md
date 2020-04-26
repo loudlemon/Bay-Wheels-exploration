@@ -28,7 +28,7 @@ ride trips in 2019.
  Whereas Customers are different. They use bikes to get around, explore the area, 
  lot's of turists among them,I suppose. The interseting fact is that people in this 
  group tend to rent a bike (on average) for a longer time during the whole year, 
- despite the fact their number is twice as much as lower then in Subscribers group.
+ despite the fact that their number is twice as much as lower then in Subscribers group.
  
  ### Key insights
  - Subscribers use bikes during their way to work and vice versa wen going back.
