@@ -20,7 +20,7 @@ ride trips in 2019.
  
  ### Summary
  In the dataset represented number of user types varies in favour of Subscribers, people 
- in this group bikes all year round, probably they have annual subscription, that is they
+ in this group tend to rent bikes all year round, probably they have annual subscription, that is they
  use bikes every day, and according to visuals, to get ot their job, mostly from ordinary
  stations to train stations and vice verse when going back home. Travel for a short distances
  day to day for the whole year with slightly prolonged duration on weekdays - that is a behavoir 
