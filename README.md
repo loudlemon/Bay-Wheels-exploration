@@ -7,7 +7,7 @@ regional and large-scale bicycle sharing system deployed in California and on th
 Coast of the United States. It was established as Bay Area Bike Share in August 2013. 
 As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across 
 San Francisco, East Bay and San Jose. After Motivate's acquisition by Lyft, the system 
-was subsequently renamed to Bay Wheels in June 2019.This dataset is from the 12-month 
+was subsequently renamed to Bay Wheels in June 2019. This dataset is from the 12-month 
 ride trips in 2019.
 
 ### Some of the transformations and changes:
