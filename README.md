@@ -26,7 +26,7 @@ in 2019.
  day to day for the whole year with slightly prolonged duration on weekdays - that is a behavoir 
  of subscribers.
  Whereas Customers are different. They use bikes to get around, explore the area, 
- lot's of turists among them,I suppose. The interseting fact is that people in this 
+ a lot of turists among them,I suppose. The interseting fact is that people in this 
  group tend to rent a bike (on average) for a longer time during the whole year, 
  despite the fact that their number is twice as much as lower then in Subscribers group.
  
