@@ -1,3 +1,10 @@
+**Important note**: If you get the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb - try to open that notebook using nbviewer online, you don't need to install it:
+ - Open https://nbviewer.jupyter.org/
+ - Paste the link to the notebook, for example- `https://github.com/loudlemon/Bay-Wheels-exploration/blob/master/exploration_WHEEL_BIKE.ipynb`. This site nbviewer works independently of github.
+
+
+
+
 # Bay Wheels sharing system. Explore and analize
 ## Data
 Bay Wheels is a regional public bicycle sharing system in the San Francisco Bay Area, 
