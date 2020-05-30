@@ -14,7 +14,7 @@ This site nbviewer works independently of github.
 
 
 
-# Bay Wheels sharing system. Explore and analize
+# Bay Wheels sharing system. Explore and analyze
 ## Data
 Bay Wheels is a regional public bicycle sharing system in the San Francisco Bay Area, 
 California operated by Motivate in a partnership with the Metropolitan Transportation 
