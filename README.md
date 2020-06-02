@@ -7,7 +7,7 @@
 
 
 
-**Important note**: If you get the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb - try to open that notebook using nbviewer online, here is the link:
+:warning: **Important note**: If you get the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb - try to open that notebook using nbviewer online, here is the link:
  - https://nbviewer.jupyter.org/github/loudlemon/Bay-Wheels-exploration/blob/master/exploration_WHEEL_BIKE.ipynb \
 This site nbviewer works independently of github.
 
